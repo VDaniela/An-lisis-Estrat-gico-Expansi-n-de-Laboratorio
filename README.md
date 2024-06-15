@@ -35,6 +35,7 @@ Análisis Exploratorio de Datos (EDA):
 •	Prevalencia de diabetes y tabaquismo: México muestra altos índices de diabetes, mientras que Chile tiene alta prevalencia de tabaquismo.
 •	Correlación entre factores de salud y mortalidad: Relación significativa entre diabetes y mortalidad en Brasil y México.
 Conclusión: El EDA reveló patrones críticos en la incidencia del COVID-19, la efectividad de las campañas de vacunación y la infraestructura sanitaria, proporcionando una base sólida para la toma de decisiones estratégicas.
+
 ![image](https://github.com/VDaniela/Analisis-Estrategico-Expansion-de-Laboratorio/assets/157546842/a94692e1-386c-48f1-86c8-e72ab0901ede)
 
 
