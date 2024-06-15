@@ -35,6 +35,21 @@ Análisis Exploratorio de Datos (EDA):
 •	Prevalencia de diabetes y tabaquismo: México muestra altos índices de diabetes, mientras que Chile tiene alta prevalencia de tabaquismo.
 •	Correlación entre factores de salud y mortalidad: Relación significativa entre diabetes y mortalidad en Brasil y México.
 Conclusión: El EDA reveló patrones críticos en la incidencia del COVID-19, la efectividad de las campañas de vacunación y la infraestructura sanitaria, proporcionando una base sólida para la toma de decisiones estratégicas.
+![image](https://github.com/VDaniela/Analisis-Estrategico-Expansion-de-Laboratorio/assets/157546842/a94692e1-386c-48f1-86c8-e72ab0901ede)
+
+
+![image](https://github.com/VDaniela/Analisis-Estrategico-Expansion-de-Laboratorio/assets/157546842/8eebc304-3bf8-4ea9-ac2a-52af0e857cfb)
+
+
+![image](https://github.com/VDaniela/Analisis-Estrategico-Expansion-de-Laboratorio/assets/157546842/b75b0c21-6dec-44d0-abbe-af4d9aa5a3f2)
+
+
+![image](https://github.com/VDaniela/Analisis-Estrategico-Expansion-de-Laboratorio/assets/157546842/81777bf7-4b3e-4ff4-b00a-b6f53556dfd5)
+
+
+![image](https://github.com/VDaniela/Analisis-Estrategico-Expansion-de-Laboratorio/assets/157546842/9edfcbe6-3cd6-4042-88be-8bbf001c95bd)
+
+
 
 Conclusiones y Recomendaciones
 Basándonos en el análisis detallado de los datos epidemiológicos, demográficos y económicos, podemos hacer las siguientes recomendaciones sobre las ubicaciones óptimas para la expansión de laboratorios farmacéuticos en América Latina. Estas recomendaciones tienen en cuenta la estabilidad económica de los países, la necesidad de salud de la población y la capacidad de inversión de un laboratorio privado.
